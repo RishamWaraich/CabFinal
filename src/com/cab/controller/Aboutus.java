@@ -9,6 +9,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class Aboutus {
 	
+	/* New comment added */
 
 	@RequestMapping("/about")
 	public String about() {
