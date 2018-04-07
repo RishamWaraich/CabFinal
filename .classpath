@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+//edit1
 <classpath>
 	<classpathentry kind="src" output="target/classes" path="src">
 		<attributes>
